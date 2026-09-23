@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: #1c1917;
+    background-color: #faf8f5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background-color: #e2d9cc;
+    color: #1c1917;
+  }
+}
+
+.font-tamil-serif {
+  font-family: 'Noto Serif Tamil', serif;
+}
+
+.font-tamil-sans {
+  font-family: 'Noto Sans Tamil', 'Inter', sans-serif;
+}
+
+.font-classical-display {
+  font-family: 'Cinzel', 'Noto Serif Tamil', serif;
+}
