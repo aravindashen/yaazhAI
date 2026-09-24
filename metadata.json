@@ -1,0 +1,6 @@
+{
+  "name": "YAAZH AI",
+  "description": "An intelligent Tamil knowledge platform connecting Classical Tamil texts, linguistic resources, commentaries, translations, and cultural knowledge with evidence-grounded research, study, and exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
